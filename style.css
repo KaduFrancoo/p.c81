@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+}
+#canvas{
+    border: black solid 2px;
+    box-shadow: 0 0 20px black;
+}
